@@ -1,3 +1,3 @@
 # LIVE-SC
 
-Code and Database for LIVE-ShareChat UGC-VQA dataset and proposed algorithm for Video Qaulity Assesment (VQA).
+Use the scripts here to evaluate the LIVE-ShareChat UGC-VQA algorithm and predict scores for any given input video.
