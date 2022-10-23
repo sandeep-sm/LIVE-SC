@@ -13,16 +13,4 @@ python3 main_contrast_IQA.py --method MoCov2 --cosine --head mlp --multiprocessi
 python3 train_linear_regression_NR.py --use_parallel
 ```
 
-This repo is built on top of PyContrast Library available [here](https://github.com/HobbitLong/PyContrast):
-
-```
-@software{PyContrast-HobbitLong,
-  author = {HobbitLong},
-  doi = {},
-  month = {},
-  title = {{Contrasting Learning using MOCO setup}},
-  url = {https://github.com/HobbitLong/PyContrast},
-  version = {},
-  year = {}
-}
-```
+This repo is built on top of PyContrast(author: HobbitLong) available [here](https://github.com/HobbitLong/PyContrast).
