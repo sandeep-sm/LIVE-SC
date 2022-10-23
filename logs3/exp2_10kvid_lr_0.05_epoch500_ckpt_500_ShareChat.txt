@@ -1,0 +1,1 @@
+Namespace(experiment_name='exp2_10kvid_lr_0.05_epoch500_ckpt_500', dataset='ShareChat', use_parallel=True, num_iterations=100, max_thread_count=10)
