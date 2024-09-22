@@ -1,3 +1,8 @@
-# LIVE-SC
+# LIVE-ShareChat IUGC VQA Database
 
-Code and Database for LIVE-ShareChat UGC-VQA dataset and proposed algorithm for Video Qaulity Assesment (VQA).
+Kindly fill this [Google Form](https://forms.gle/77XMBdmCvjiEuV467) to gain access to the LIVE-ShareChat IUGC VQA database.
+
+
+# MoEVA VQA metric 
+
+The code will be released soon 🔥
